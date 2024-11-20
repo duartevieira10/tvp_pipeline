@@ -22,7 +22,7 @@ Perform Top K analysis for TVP verticals and protocols using Apache Spark.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/duartevieira10/tvp_pipeline.git)
 cd tvp_pipeline
 ```
 
