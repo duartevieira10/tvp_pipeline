@@ -55,7 +55,7 @@ def main():
             spark,
             vertical_data = vertical_data_path,
             protocol_data = protocol_data_path,
-    #       api_key = api_key
+            api_key = api_key
         )
 
         # Fetch Dune data if necessary
