@@ -1,0 +1,12 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Output files
+output/
+
+# Environment variables
+config/app.env
+
+# Docker artifacts
+*.log
